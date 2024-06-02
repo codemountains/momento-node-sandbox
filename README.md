@@ -20,6 +20,8 @@ echo "MOMENTO_API_KEY=" > .env
 
 ## Testing
 
+Using [dotenvx](https://dotenvx.com/).
+
 ```shell
 npx dotenvx run -- npx tsx index.ts
 ```
